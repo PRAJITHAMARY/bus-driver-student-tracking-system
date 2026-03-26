@@ -74,7 +74,7 @@ npm run dev
 ```
 
 
-## 🚀 Future Enhancements
+🚀 Future Enhancements
 
 * 📡 Real-time GPS integration
 * ☁️ Firebase backend implementation
@@ -83,7 +83,7 @@ npm run dev
 * 📊 Analytics dashboard
 
 
-## 👥 Team Members
+👥 Team Members
 
 * PRAJITHA MARY.J
 * RAHUL PANDEY
@@ -91,6 +91,6 @@ npm run dev
 * PRAPANJAN S
 
 
-## ⭐ Conclusion
+⭐ Conclusion
 
 This project demonstrates how real-time tracking and user interaction can significantly improve the efficiency and reliability of student transportation systems.
