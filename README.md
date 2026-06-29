@@ -241,8 +241,5 @@ It helps others discover the project and motivates future development.
 
 
 
-🌐 Live Demo
-
-🔗 https://bustracer.netlify.app/
 
  
